@@ -1,0 +1,10 @@
+C:\code\GameCore\src\State\bin\Debug\netcoreapp3.1\State.deps.json
+C:\code\GameCore\src\State\bin\Debug\netcoreapp3.1\State.dll
+C:\code\GameCore\src\State\bin\Debug\netcoreapp3.1\State.pdb
+C:\code\GameCore\src\State\obj\Debug\netcoreapp3.1\State.csproj.AssemblyReference.cache
+C:\code\GameCore\src\State\obj\Debug\netcoreapp3.1\State.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\GameCore\src\State\obj\Debug\netcoreapp3.1\State.AssemblyInfoInputs.cache
+C:\code\GameCore\src\State\obj\Debug\netcoreapp3.1\State.AssemblyInfo.cs
+C:\code\GameCore\src\State\obj\Debug\netcoreapp3.1\State.csproj.CoreCompileInputs.cache
+C:\code\GameCore\src\State\obj\Debug\netcoreapp3.1\State.dll
+C:\code\GameCore\src\State\obj\Debug\netcoreapp3.1\State.pdb

@@ -1,0 +1,13 @@
+C:\code\GameCore\src\Engine\bin\Debug\netcoreapp3.1\Engine.deps.json
+C:\code\GameCore\src\Engine\bin\Debug\netcoreapp3.1\Engine.dll
+C:\code\GameCore\src\Engine\bin\Debug\netcoreapp3.1\Engine.pdb
+C:\code\GameCore\src\Engine\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\code\GameCore\src\Engine\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\code\GameCore\src\Engine\obj\Debug\netcoreapp3.1\Engine.csproj.AssemblyReference.cache
+C:\code\GameCore\src\Engine\obj\Debug\netcoreapp3.1\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\GameCore\src\Engine\obj\Debug\netcoreapp3.1\Engine.AssemblyInfoInputs.cache
+C:\code\GameCore\src\Engine\obj\Debug\netcoreapp3.1\Engine.AssemblyInfo.cs
+C:\code\GameCore\src\Engine\obj\Debug\netcoreapp3.1\Engine.csproj.CoreCompileInputs.cache
+C:\code\GameCore\src\Engine\obj\Debug\netcoreapp3.1\Engine.csproj.CopyComplete
+C:\code\GameCore\src\Engine\obj\Debug\netcoreapp3.1\Engine.dll
+C:\code\GameCore\src\Engine\obj\Debug\netcoreapp3.1\Engine.pdb

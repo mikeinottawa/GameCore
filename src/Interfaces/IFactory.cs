@@ -4,6 +4,5 @@ namespace Interfaces
 {
     public interface IFactory
     {
-
     }
 }
