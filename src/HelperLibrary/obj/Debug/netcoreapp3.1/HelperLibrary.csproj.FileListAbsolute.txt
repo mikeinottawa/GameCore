@@ -1,0 +1,10 @@
+C:\code\GameCore\src\HelperLibrary\bin\Debug\netcoreapp3.1\HelperLibrary.deps.json
+C:\code\GameCore\src\HelperLibrary\bin\Debug\netcoreapp3.1\HelperLibrary.dll
+C:\code\GameCore\src\HelperLibrary\bin\Debug\netcoreapp3.1\HelperLibrary.pdb
+C:\code\GameCore\src\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.csproj.AssemblyReference.cache
+C:\code\GameCore\src\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\GameCore\src\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.AssemblyInfoInputs.cache
+C:\code\GameCore\src\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.AssemblyInfo.cs
+C:\code\GameCore\src\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.csproj.CoreCompileInputs.cache
+C:\code\GameCore\src\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.dll
+C:\code\GameCore\src\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.pdb

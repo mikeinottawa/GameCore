@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory", "..\Factory\Facto
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "..\Interfaces\Interfaces.csproj", "{D730DD1A-E8CA-43E7-9F8C-6C5C0CCFE66B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "..\State\State.csproj", "{9F70898F-37E2-4D51-8389-88610C343F84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State", "..\State\State.csproj", "{9F70898F-37E2-4D51-8389-88610C343F84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelperLibrary", "..\HelperLibrary\HelperLibrary.csproj", "{B1529AF0-C681-44FF-BE9D-4468F33FADF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelperLibrary", "..\HelperLibrary\HelperLibrary.csproj", "{B1529AF0-C681-44FF-BE9D-4468F33FADF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "..\Tests\Tests.csproj", "{488396C9-5114-4E59-BB87-5DC745D8782D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{B1529AF0-C681-44FF-BE9D-4468F33FADF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1529AF0-C681-44FF-BE9D-4468F33FADF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1529AF0-C681-44FF-BE9D-4468F33FADF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{488396C9-5114-4E59-BB87-5DC745D8782D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{488396C9-5114-4E59-BB87-5DC745D8782D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{488396C9-5114-4E59-BB87-5DC745D8782D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{488396C9-5114-4E59-BB87-5DC745D8782D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

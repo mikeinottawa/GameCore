@@ -6,20 +6,27 @@ using System.Text;
 
 namespace Engine
 {
-    public class EngineEntry : IEngine
+    public class EngineEntry
     {
         public delegate void GameAction();
-        public static ConcurrentQueue<GameAction> GetQueue = new ConcurrentQueue<GameAction>();  
-        public void Add()
+        public static ConcurrentQueue<GameAction> GameQueue= new ConcurrentQueue<GameAction>();
+
+        public EngineEntry()
         {
         }
-        public void DeQueueAndResolve()
-        {           
+
+        public void Queue(GameAction gameAction)
+        {
+            GameQueue.Enqueue(gameAction);
         }
-        public void UpdateGameDisplay()
-        {            
+
+        public void DeQueueAndInvoke()
+        {
+            GameQueue.TryDequeue(out GameAction result);
+            result.Invoke();
         }
-        public void ClearGameEngine()
+        
+        public void Clear()
         {            
         }
     }
