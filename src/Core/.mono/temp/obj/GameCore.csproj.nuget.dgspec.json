@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\code\\GameCore\\src\\godotsrc\\GameCore.csproj": {}
+  },
+  "projects": {
+    "C:\\code\\GameCore\\src\\godotsrc\\GameCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\code\\GameCore\\src\\godotsrc\\GameCore.csproj",
+        "projectName": "GameCore",
+        "projectPath": "C:\\code\\GameCore\\src\\godotsrc\\GameCore.csproj",
+        "packagesPath": "C:\\Users\\mikee\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\GameCore\\src\\Core\\.mono\\temp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mikee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packages.xenko.com/nuget": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

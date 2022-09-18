@@ -1,0 +1,12 @@
+C:\code\GameCore\src\Resolvers\bin\Debug\net6.0\Resolvers.deps.json
+C:\code\GameCore\src\Resolvers\bin\Debug\net6.0\Resolvers.dll
+C:\code\GameCore\src\Resolvers\bin\Debug\net6.0\Resolvers.pdb
+C:\code\GameCore\src\Resolvers\obj\Debug\net6.0\Resolvers.csproj.AssemblyReference.cache
+C:\code\GameCore\src\Resolvers\obj\Debug\net6.0\Resolvers.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\GameCore\src\Resolvers\obj\Debug\net6.0\Resolvers.AssemblyInfoInputs.cache
+C:\code\GameCore\src\Resolvers\obj\Debug\net6.0\Resolvers.AssemblyInfo.cs
+C:\code\GameCore\src\Resolvers\obj\Debug\net6.0\Resolvers.csproj.CoreCompileInputs.cache
+C:\code\GameCore\src\Resolvers\obj\Debug\net6.0\Resolvers.dll
+C:\code\GameCore\src\Resolvers\obj\Debug\net6.0\refint\Resolvers.dll
+C:\code\GameCore\src\Resolvers\obj\Debug\net6.0\Resolvers.pdb
+C:\code\GameCore\src\Resolvers\obj\Debug\net6.0\ref\Resolvers.dll

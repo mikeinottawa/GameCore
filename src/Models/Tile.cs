@@ -4,12 +4,12 @@ using System.Text;
 
 namespace Models
 {
-    class Tile
+    public class Tile
     {    
         /// <summary>
         /// An individual tile on map
         /// </summary>
-        public Tile() { }
+        public Tile(int xCoordinate, int yCoordinate, int zCoordinate) { }
 
         /// <summary>
         /// Searchable Id of the Tile
@@ -26,6 +26,9 @@ namespace Models
         /// <summary>
         /// True if units are on the tile
         /// </summary>
+        /// 
+        public int ZCoordinate { get; set; }
+
         public bool UnitsOnTile { get; set; }
         /// <summary>
         /// Type of terrain the tile is

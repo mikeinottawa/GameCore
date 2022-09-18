@@ -1,0 +1,9 @@
+C:\code\GameCore\src\Core\.mono\temp\bin\Debug\GameCore.dll
+C:\code\GameCore\src\Core\.mono\temp\bin\Debug\GameCore.pdb
+C:\code\GameCore\src\Core\.mono\temp\obj\Debug\GameCore.csproj.AssemblyReference.cache
+C:\code\GameCore\src\Core\.mono\temp\obj\Debug\GameCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\GameCore\src\Core\.mono\temp\obj\Debug\GameCore.AssemblyInfoInputs.cache
+C:\code\GameCore\src\Core\.mono\temp\obj\Debug\GameCore.AssemblyInfo.cs
+C:\code\GameCore\src\Core\.mono\temp\obj\Debug\GameCore.csproj.CoreCompileInputs.cache
+C:\code\GameCore\src\Core\.mono\temp\obj\Debug\GameCore.dll
+C:\code\GameCore\src\Core\.mono\temp\obj\Debug\GameCore.pdb
