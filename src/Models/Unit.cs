@@ -9,11 +9,5 @@
         {
 
         }
-
-        public Tile CurrentTile { get; set; }
-
-
-
-
     }
 }

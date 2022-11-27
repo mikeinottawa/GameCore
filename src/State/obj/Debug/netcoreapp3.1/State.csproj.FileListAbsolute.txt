@@ -8,3 +8,6 @@ C:\code\GameCore\src\State\obj\Debug\netcoreapp3.1\State.AssemblyInfo.cs
 C:\code\GameCore\src\State\obj\Debug\netcoreapp3.1\State.csproj.CoreCompileInputs.cache
 C:\code\GameCore\src\State\obj\Debug\netcoreapp3.1\State.dll
 C:\code\GameCore\src\State\obj\Debug\netcoreapp3.1\State.pdb
+C:\code\GameCore\src\State\bin\Debug\netcoreapp3.1\Models.dll
+C:\code\GameCore\src\State\bin\Debug\netcoreapp3.1\Models.pdb
+C:\code\GameCore\src\State\obj\Debug\netcoreapp3.1\State.csproj.CopyComplete

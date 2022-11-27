@@ -4,6 +4,62 @@
     "C:\\code\\GameCore\\src\\State\\State.csproj": {}
   },
   "projects": {
+    "C:\\code\\GameCore\\src\\Models\\Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\code\\GameCore\\src\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "C:\\code\\GameCore\\src\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\mikee\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\GameCore\\src\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mikee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packages.xenko.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\code\\GameCore\\src\\State\\State.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -28,7 +84,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\code\\GameCore\\src\\Models\\Models.csproj": {
+                "projectPath": "C:\\code\\GameCore\\src\\Models\\Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

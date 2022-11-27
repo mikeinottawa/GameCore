@@ -6,12 +6,12 @@ using System.Text;
 
 namespace Engine
 {
-    public class EngineEntry
+    public class Engine
     {
         public delegate void GameAction();
         public static ConcurrentQueue<GameAction> GameQueue= new ConcurrentQueue<GameAction>();
 
-        public EngineEntry()
+        public Engine()
         {
         }
 
